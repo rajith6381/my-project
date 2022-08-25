@@ -1,0 +1,24 @@
+
+
+header{
+	background-color:red;
+	display:flex;
+	justify-content:space-between;
+}
+
+
+
+
+header img{
+	height:100px;
+	
+}
+li{
+	list-style-type:none;
+}
+a{
+	text-decoration:none;
+}
+.navi{
+	display:flex;
+}
